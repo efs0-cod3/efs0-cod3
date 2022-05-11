@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">A full stack web developer.</h3>
 
+- 🌱 I’m currently learning **react, nodeJs**
  
 - 💼 Im also available for new clients. Take a look at my [potfolio](https://erickfelix.netlify.app/)!
 
@@ -35,15 +36,11 @@
 </table>
 
 ## Socials
-<div align="center">
-  <a href="https://www.instagram.com/efs0cod3/">
-  <img width="50" alt="Erick's Instagram" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/ig.png"/>
-</a>
 
-<a href="https://twitter.com/efs0_code">
-  <img width="50" alt="Erick 'efs0_cod3' Felix | Twitter" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/Tw.png"/>
-</a>
-<a href="https://www.linkedin.com/in/erick-felix-68365a231/">
-  <img width="50" alt="Erick Felix's LinkedIN" width="22px" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/in.png" />
-</a>
-  </div>
+<p align="center">
+<a href="https://codepen.io/efs0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="efs0" height="30" width="40" /></a>
+<a href="https://twitter.com/efs0_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efs0_code" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erick felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erick felix" height="30" width="40" /></a>
+<a href="https://instagram.com/efs0cod3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efs0cod3" height="30" width="40" /></a>
+<a href="https://discord.gg/#7437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7437" height="30" width="40" /></a>
+</p>
