@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/github-banner.png"/>
+<img align="center" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/github-banner-blue.png"/>
 
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">A full stack web developer.</h3>
