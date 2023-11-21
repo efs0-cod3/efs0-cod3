@@ -10,7 +10,7 @@
 
 - 📫 Mail me at [effsdr@protonmail.com](mailto:effsdr@protonmail.com) or [erickfelixs@icloud.com](mailto:erickfelixs@icloud.com)
 
-- 💬 Im open to connect. DM's are open [Twitter](https://twitter.com/efs0_code)
+- 💬 Im open to connect. DM's are open [X](https://twitter.com/efs0_code)
               
 
 <div align="center">
